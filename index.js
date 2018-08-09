@@ -48,6 +48,7 @@ function removeFromCart(item) {
     if (cart[i].itemName ===item){
       cart.slice(i,1);
       return cart
+      else 
       }
   }
 }
