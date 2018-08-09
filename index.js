@@ -59,3 +59,4 @@ function placeOrder(cardNumber) {
       cart.pop();}
     }
 }
+}
