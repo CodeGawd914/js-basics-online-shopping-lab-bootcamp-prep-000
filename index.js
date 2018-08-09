@@ -59,5 +59,4 @@ function placeOrder(cardNumber) {
       cart.pop();
     }
     } else ("Sorry, we don\'t have a credit card on file for you.")
-    return cart
 }
