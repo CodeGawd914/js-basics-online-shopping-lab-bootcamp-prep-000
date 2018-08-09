@@ -37,6 +37,7 @@ function viewCart() {
   }
 
 function total() {
+  var bill = 0;
   for ( var i = 0; i< cart.length; i++){
     cart[i].itemPrice
     
