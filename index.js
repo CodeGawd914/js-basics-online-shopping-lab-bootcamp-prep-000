@@ -44,7 +44,7 @@ function total() {
   return bill
 }
 function removeFromCart(item) {
-  // write your code here
+  
 }
 
 function placeOrder(cardNumber) {
